@@ -83,7 +83,7 @@ possible <- head(arrange(avail.players,desc(OBP)),10)
 
 final_answer <- possible[2:4,]
 
-pl2 <- ggplot(final_answer,aes(y=AB, x=salary)) + geom_col(aes(color=playerID,fill=playerID),alpha=0.5)
+pl2 <- ggplot(final_answer,aes(x=salary, y=playerID)) + geom_col(aes(color=playerID,fill=playerID),alpha=0.5)
 
 print(pl2)
 
