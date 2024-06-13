@@ -1,0 +1,1 @@
+This project explores the concepts and applications of the Moneyball approach, made famous by the Oakland Athletics baseball team and detailed in Michael Lewis's book, "Moneyball: The Art of Winning an Unfair Game." The approach utilizes statistical analysis to build competitive sports teams on a limited budget.
